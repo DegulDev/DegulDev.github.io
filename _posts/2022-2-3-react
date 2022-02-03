@@ -1,14 +1,19 @@
+---
+layout: post
+title: React 시작
+---
+
 1.vscode에 react 설치
 
 2.리액트 Docs 내용 읽기
-https://ko.reactjs.org/docs/getting-started.html
+[React JS 시작하기](https://ko.reactjs.org/docs/getting-started.html)
 
 3.커스텀 컴포넌트를 생성 Menu List 리턴
 
 4.react-router 사용하여 링크 이동
 react-router 검색해서 나오는 코딩과 달라서 검색해보니 업데이트로 인해 바뀐 부분 확인
 *2021.11.04 v6.0.0 업뎃되었으며 현재 v6.2.1까지 나옴
-https://blog.woolta.com/categories/1/posts/211
+[react-router v6에서는 어떤것들이 변했을까??](https://blog.woolta.com/categories/1/posts/211)
 
 - 훅과 함수형 컴포넌트 사용
 - jquery 는 내가 코딩한 것만 실행되는데, react는 리랜더링 때 의도하지 않은 실행이 되는 경우가 발생
